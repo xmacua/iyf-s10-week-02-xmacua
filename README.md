@@ -1,4 +1,4 @@
-# Vivian Macua - Week 02 Project
+# Vivian Macua - Week 02 portfolio Project
 
 This project is part of the **Week 03 assignment** in the IYF Software Development program.  
 The goal of the project was to build a **multi-page responsive portfolio website** using HTML and CSS while practicing proper project structure and GitHub workflow.
