@@ -9,7 +9,7 @@ During this project, I practiced creating multiple web pages, organizing files i
 
 ## Live Demo
 
-[View Live Site](https://xmacua.github.io/My-portfolio/)
+[View Live Site](https://github.com/xmacua/iyf-s10-week-02-xmacua.git)
 
 ---
 
